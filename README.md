@@ -10,11 +10,17 @@ A simple Machine Learning web app built with **Logistic Regression** and **Strea
 - Instant predictions without retraining the model
 - Easy to deploy and share
 
+## 🛠 Technologies Used
+
+- Python 3
+- Scikit-learn – for training Logistic Regression
+- Streamlit – for creating the web interface
+- Pickle – for saving/loading the trained model
+
 ---
 
 ## 🚀 Demo
 (Once deployed, add your app link here)
-
 
 ---
 
@@ -34,10 +40,3 @@ A simple Machine Learning web app built with **Logistic Regression** and **Strea
 git clone https://github.com/VishwasSonker/Placement-Predictor.git
 cd Placement-Predictor
 
-
-## 🛠 Technologies Used
-
-Python 3
-Scikit-learn – for training Logistic Regression
-Streamlit – for creating the web interface
-Pickle – for saving/loading the trained model
