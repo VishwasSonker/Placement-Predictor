@@ -2,10 +2,8 @@ import streamlit as st
 import pickle
 
 # Loading trained model
-MODEL_PATH = os.path.join(os.path.dirname(__file__), "model.pkl")
-with open(MODEL_PATH, "rb") as file:
-    model = pickle.load(file)
-
+# Loading trained model
+model = pickle.load(open("model.pkl", "rb"))
 st.title("🎓 Student Placement Prediction")
 
 st.write("Enter student's CGPA and IQ to check if you might get placed.")
