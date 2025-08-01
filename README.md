@@ -20,7 +20,7 @@ A simple Machine Learning web app built with **Logistic Regression** and **Strea
 ---
 
 ## 🚀 Demo
-(Once deployed, add your app link here)
+(https://placement-predictor-bcgwuprieqxrwbrfv7qj5e.streamlit.app/)
 
 ---
 
