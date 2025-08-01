@@ -2,7 +2,6 @@ import streamlit as st
 import pickle
 
 # Loading trained model
-# Loading trained model
 model = pickle.load(open("model.pkl", "rb"))
 st.title("🎓 Student Placement Prediction")
 
